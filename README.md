@@ -1,16 +1,12 @@
-# first_app
+# Basics Project
 
-A new Flutter project.
+This repository is dedicated to my journey of learning Flutter. Here, I will be documenting my progress, experiments, and projects related to Flutter basics.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+In this repository, I will be exploring the fundamentals of Flutter, including widgets, layouts, state management, and more. I will be sharing my learnings, code snippets, and resources that I find helpful along the way.
 
-A few resources to get you started if this is your first Flutter project:
+## Contact
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I'm new to Flutter, and if you are too, let's learn and explore it together! Feel free to reach out if you'd like to collaborate and share knowledge. You can contact me through my GitHub profile or by sending me an email at [adzkyykhairany@gmail.com](mailto:adzkyykhairany@gmail.com). Let's start this Flutter journey together!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
